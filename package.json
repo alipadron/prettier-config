@@ -1,6 +1,6 @@
 {
   "name": "@alipadron/prettier-config",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Reusable prettier config file for all projects i work on",
   "main": "index.js",
   "scripts": {
