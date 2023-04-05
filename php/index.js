@@ -1,15 +1,13 @@
 module.exports = {
+  "phpVersion": "8.2",
   "printWidth": 80,
-  "tabWidth": 2,
+  "tabWidth": 4,
   "useTabs": false,
-  "semi": true,
   "singleQuote": true,
-  "quoteProps": "as-needed",
-  "jsxSingleQuote": false,
-  "trailingComma": "es5",
-  "bracketSpacing": true,
-  "bracketSameLine": false,
-  "arrowParens": "always",
-  "endOfLine": "lf"
-};
+  "trailingCommaPHP": true,
+  "braceStyle": "psr-2",
+  "requirePragma": false,
+  "insertPragma": false
+}
+
 
